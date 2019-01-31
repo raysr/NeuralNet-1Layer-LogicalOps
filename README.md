@@ -1,2 +1,1 @@
-# NeuralNet-1Layer-LogicalOps
-Just a simple 1 layer neural net without backpropagation learning logical operations.
+## A simple collection of notebooks to code from scratch some implementations of neural networks
